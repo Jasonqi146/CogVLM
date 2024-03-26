@@ -11,3 +11,6 @@ hostfile
 runs/
 *.idea/
 /sarc_data/*
+**/dataset/*
+!.gitkeep
+blip_output/*
